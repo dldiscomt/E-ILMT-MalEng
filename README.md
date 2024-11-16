@@ -87,17 +87,17 @@ Or on Ubuntu:
 ## Screenshots
 input :"തിരുവനന്തപുരം: സംസ്ഥാനത്ത് ശക്തമായ മഴയ്ക്ക് സാധ്യത. വിവിധ
 ജില്ലകളിൽ കേന്ദ്ര കാലാവസ്ഥാവകുപ്പ് മഞ്ഞ അലർട്ട് പ്രഖ്യാപിച്ചു."
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/mlen/Picture1.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/E-ILMT-MalEng/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
 
 
 input :"ഇന്ന് മലപ്പുറം, കോഴിക്കോട്, വയനാട്, കണ്ണൂർ, കാസർഗോഡ്
 ജില്ലകളിൽ യെല്ലോ അലേർട്ടാണ്."
-![App Screenshot ](https://github.com/aashiqlove/code/blob/main/mlen/Picture2.jpg?raw=true)
+![App Screenshot ](https://github.com/dldiscomt/E-ILMT-MalEng/blob/main/OutputScreenshots/Picture2.jpg?raw=true)
 
 
 input :"നാളെയും ബുധനാഴ്ചയും കണ്ണൂർ, കാസറഗോഡ് ജില്ലകളിൽ
 മുന്നറിയിപ്പ് ഉണ്ട്."
-![App Screenshot](https://github.com/aashiqlove/code/blob/main/mlen/Picture3.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/E-ILMT-MalEng/blob/main/OutputScreenshots/Picture3.jpg?raw=true)
 
 
 ## Demo
